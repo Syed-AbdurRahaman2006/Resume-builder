@@ -1,7 +1,7 @@
 A modern resume builder application built with the MERN stack, allowing users to create professional resumes using customizable templates.
 
 
-https://resume-builders.vercel.app/
+
 
 Features
 🔐 JWT-based authentication
